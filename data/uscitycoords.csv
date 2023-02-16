@@ -1,0 +1,133 @@
+City,State,Latitude,Longitude
+Albany,NY,43,-74
+Albuquerque,NM,36,-106
+Amarillo,TX,35,-102
+Anchorage,AK,61,-150
+Annapolis,MD,39,-77
+Atlanta,GA,34,-84
+Augusta,ME,44,-70
+Austin,TX,30,-98
+Baker,OR,45,-118
+Baltimore,MD,39,-76
+Bangor,ME,45,-69
+Baton Rouge,LA,31,-91
+Birmingham,AL,33,-87
+Bismarck,ND,47,-101
+Boise,ID,43,-116
+Boston,MA,42,-72
+Buffalo,NY,43,-79
+Carlsbad,NM,32,-104
+Carson City,NV,39,-120
+Charleston,SC,33,-80
+Charleston,WV,38,-81
+Charlotte,NC,35,-81
+Cheyenne,WY,42,-105
+Chicago,IL,42,-87
+Cincinnati,OH,40,-84
+Cleveland,OH,41,-81
+Columbia,SC,34,-81
+Columbus,OH,40,-83
+Concord,NH,43,-72
+Dallas,TX,33,-97
+Denver,CO,40,-105
+Des Moines,IA,41,-93
+Detroit,MI,42,-83
+Dover,DE,39,-76
+Dubuque,IA,42,-91
+Duluth,MN,47,-93
+Eastport,ME,45,-67
+El Centro,CA,32,-115
+El Paso,TX,32,-106
+Eugene,OR,44,-124
+Fargo,ND,47,-97
+Flagstaff,AZ,35,-112
+Fort Worth,TX,33,-97
+Frankfort,KY,38,-85
+Fresno,CA,37,-120
+Grand Junction,CO,40,-108
+Grand Rapids,MI,43,-86
+Harrisburg,PA,40,-77
+Hartford,CT,42,-73
+Helena,MT,46,-112
+Honolulu,HI,21,-158
+Hot Springs,AR,34,-93
+Houston,TX,30,-95
+Idaho Falls,ID,43,-112
+Indianapolis,IN,40,-86
+Jackson,MS,32,-90
+Jacksonville,FL,30,-82
+Jefferson City,MO,39,-92
+Juneau,AK,58,-134
+Kansas City,MO,40,-94
+Key West,FL,24,-82
+Klamath Falls,OR,42,-122
+Knoxville,TN,36,-84
+Lansing,MI,43,-85
+Las Vegas,NV,36,-115
+Lewiston,ID,46,-117
+Lincoln,NE,41,-97
+Little Rock,AR,35,-92
+Long Beach,CA,34,-118
+Los Angeles,CA,34,-118
+Louisville,KY,38,-86
+Madison,WI,43,-89
+Manchester,NH,43,-71
+Memphis,TN,36,-90
+Miami,FL,26,-80
+Milwaukee,WI,43,-88
+Minneapolis,MN,45,-93
+Mobile,AL,31,-88
+Montgomery,AL,32,-86
+Montpelier,VT,44,-72
+Nashville,TN,36,-87
+New Haven,CN,41,-73
+New Orleans,LA,30,-91
+New York,NY,41,-74
+Newark,NJ,41,-74
+Nome,AK,64,-165
+Oakland,CA,38,-122
+Oklahoma City,OK,35,-97
+Olympia,WA,47,-123
+Omaha,NE,41,-96
+Philadelphia,PA,40,-75
+Phoenix,AZ,33,-113
+Pierre,SD,44,-100
+Pittsburgh,PA,40,-80
+Portland,ME,44,-70
+Portland,OR,45,-123
+Providence,RI,42,-71
+Raleigh,NC,36,-78
+Reno,NV,39,-120
+Richfield,UT,39,-113
+Richmond,VA,37,-77
+Roanoke,VA,37,-80
+Sacramento,CA,38,-121
+Salem,OR,45,-123
+Salt Lake City,UT,41,-112
+San Antonio,TX,29,-98
+San Diego,CA,33,-117
+San Francisco,CA,38,-122
+San Jose,CA,37,-122
+Santa Fe,NM,36,-106
+Savannah,GA,33,-82
+Seattle,WA,47,-122
+Shreveport,LA,32,-94
+Sioux Falls,SD,43,-97
+Sitka,AK,57,-135
+Spokane,WA,48,-117
+Springfield,IL,40,-89
+Springfield,MA,43,-72
+Springfield,MO,37,-93
+St. Louis,MO,38,-90
+St. Paul,MN,45,-93
+Syracuse,NY,43,-77
+Tallahassee,FL,31,-84
+Tampa,FL,28,-82
+Toledo,OH,41,-83
+Topeka,KS,39,-96
+Trenton,NJ,40,-75
+Tulsa,OK,37,-96
+Virginia Beach,VA,37,-76
+Washington,DC,39,-77
+Wichita,KS,38,-97
+Wilmington,NC,34,-78

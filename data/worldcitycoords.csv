@@ -1,0 +1,213 @@
+City,Country,Latitude,Longitude
+Kabul,Afghanistan,35,69
+Algiers,Algeria,37,3
+Buenos Aires,Argentina,-34,-59
+Cordoba,Argentina,-31,-64
+Tucuman,Argentina,-27,-65
+Adelaide,Australia,-35,138
+Alice Springs,Australia,-24,134
+Brisbane,Australia,-27,153
+Darwin,Australia,-12,131
+Melbourne,Australia,-38,145
+Perth,Australia,-32,116
+Sydney,Australia,-34,151
+Vienna,Austria,48,16
+Nassau,Bahamas,26,-77
+Chittagong,Bangladesh,22,92
+Brussels,Belgium,51,4
+Belize,Belize,17,-88
+Kindley AFB,Bermuda,33,-65
+La Paz,Bolivia,-16,-69
+Belem,Brazil,-1,-48
+Belo Horizonte,Brazil,-20,-44
+Brasilia,Brazil,-16,-48
+Curitiba,Brazil,-25,-49
+Fortaleza,Brazil,-4,-38
+Porto Alegre,Brazil,-30,-51
+Recife,Brazil,-9,-35
+Rio de Janeiro,Brazil,-23,-43
+Salvador,Brazil,-13,-38
+Sao Paulo,Brazil,-23,-46
+Sofia,Bulgaria,43,23
+Phnom Penh,Cambodia,11,105
+Calgary,Canada,51,-114
+Havre,Canada,48,-110
+Kingston,Canada,44,-76
+London,Canada,43,-81
+Moose Jaw,Canada,50,-105
+Montreal,Canada,45,-73
+Ottawa,Canada,45,-76
+Port Arthur,Canada,48,-89
+Quebec,Canada,47,-71
+St. John,Canada,45,-66
+Toronto,Canada,44,-79
+Victoria,Canada,48,-123
+Winnipeg,Canada,50,-98
+Punta Arenas,Chile,-53,-71
+Santiago,Chile,-33,-71
+Valparaiso,Chile,-33,-71
+Chongquing,China,29,106
+Shanghai,China,31,121
+Baranquilla,Colombia,11,-75
+Bogota,Colombia,4,-75
+Cali,Colombia,3,-76
+Medellin,Colombia,6,-75
+Brazzaville,Congo,-4,15
+Guantanamo Bay,Cuba,20,-76
+Havana,Cuba,24,-82
+Prague,Czech Republic,51,14
+Copenhagen,Denmark,56,12
+Santo Domingo,Dominican Republic,18,-70
+Cairo,Egypt,30,31
+San Salvador,El Salvador,14,-89
+Guayaquil,Ecuador,-21,-80
+Quito,Ecuador,0,-78
+Addis Ababa,Ethiopia,9,39
+Asmara,Ethiopia,15,39
+Helsinki,Finland,60,25
+Lyon,France,46,5
+Marseilles,France,43,5
+Nantes,France,47,-1
+Nice,France,44,7
+Paris,France,49,2
+Strasbourg,France,48,8
+Cayenne,French Guiana,5,-52
+Berlin,Germany,52,13
+Hamburg,Germany,53,10
+Hannover,Germany,52,10
+Mannheim,Germany,49,8
+Munich,Germany,49,11
+Accra,Ghana,5,0
+Gibraltar,Gibraltar,37,-5
+Athens,Greece,38,24
+Thessaloniki,Greece,40,23
+Guatemala City,Guatemala,14,-90
+Georgetown,Guyana,7,-58
+Port Au Prince,Haiti,18,-72
+Tegucigalpa,Honduras,15,-87
+Hong Kong,Hong Kong,22,114
+Budapest,Hungary,47,19
+Reykjavik,Iceland,65,22
+Ahmenabad,India,22,72
+Bangalore,India,13,77
+Bombay,India,19,73
+Calcutta,India,22,88
+Madras,India,14,80
+Nagpur,India,22,80
+New Delhi,India,28,77
+Djakarta,Indonesia,-6,107
+Kupang,Indonesia,-10,123
+Makassar,Indonesia,-6,119
+Medan,Indonesia,3,99
+Palembang,Indonesia,-3,105
+Surabaya,Indonesia,-7,113
+Abadan,Iran,30,48
+Meshed,Iran,36,59
+Tehran,Iran,36,51
+Baghdad,Iraq,33,44
+Mosul,Iraq,36,44
+Dublin,Ireland,53,-6
+Shannon,Ireland,53,-9
+Jerusalem,Israel,32,35
+Tel Aviv,Israel,33,35
+Milan,Italy,45,9
+Naples,Italy,41,14
+Rome,Italy,42,12
+Fukuoka,Japan,33,130
+Sapporo,Japan,44,141
+Tokyo,Japan,36,140
+Amman,Jordan,32,36
+Nairobi,Kenya,-1,37
+Pyongyang,"Korea, North",39,126
+Seoul,"Korea, South",37,127
+Beirut,Lebanon,34,35
+Monrovia,Liberia,6,-11
+Benghazi,Libya,33,21
+Tananarive,Madagascar,-19,47
+Kuala Lumpur,Malaysia,4,102
+Penang,Malaysia,5,100
+Guadalajara,Mexico,21,-103
+Merida,Mexico,21,-89
+Mexico City,Mexico,19,-99
+Monterrey,Mexico,26,-100
+Vera Cruz,Mexico,19,-97
+Casablanca,Morocco,33,-7
+Katmandu,Nepal,28,85
+Amsterdam,Netherlands,52,5
+Auckland,New Zealand,-37,175
+Christchurch,New Zealand,-43,172
+Wellington,New Zealand,-41,175
+Managua,Nicaragua,12,-86
+Lagos,Nigeria,6,3
+Bergen,Norway,60,5
+Oslo,Norway,60,11
+Karachi,Pakistan,25,67
+Lahore,Pakistan,31,74
+Peshwar,Pakistan,34,71
+Panama City,Panama,9,-79
+Port Moresby,Papua New Guinea,-9,148
+Ascuncion,Paraguay,-25,-57
+Lima,Peru,-13,-77
+Manila,Philippines,14,121
+Krakow,Poland,51,20
+Warsaw,Poland,52,21
+Lisbon,Portugal,39,-10
+San Juan,Puerto Rico,18,-67
+Bucharest,Romania,44,27
+Kiev,Russia,50,30
+Leningrad,Russia,60,30
+Minsk,Russia,54,27
+Moscow,Russia,56,38
+Odessa,Russia,46,31
+Tashkent,Russia,41,69
+Tbilisi,Russia,42,45
+Vladivostok,Russia,44,132
+Volgograd,Russia,49,44
+Dhahran,Saudi Arabia,26,51
+Jedda,Saudi Arabia,21,39
+Riyadh,Saudi Arabia,24,47
+Dakar,Senegal,15,-17
+Singapore,Singapore,1,104
+Mogadiscio,Somalia,2,49
+Cape Town,South Africa,-34,18
+Johannesburg,South Africa,-26,28
+Pretoria,South Africa,-26,28
+Aden,Yemen,13,45
+Barcelona,Spain,41,3
+Madrid,Spain,40,-4
+Valencia,Spain,39,0
+Colombo,Sri Lanka,7,80
+Khartoum,Sudan,15,32
+Paramaribo,Suriname,6,-56
+Stockholm,Sweden,59,19
+Zurich,Switzerland,47,8
+Damascus,Syria,33,36
+Tainan,Taiwan,23,120
+Taipei,Taiwan,25,121
+Dar es Salaam,Tanzania,-7,39
+Bangkok,Thailand,14,100
+Port of Spain,Trinidad and Tobago,11,-61
+Tunis,Tunisia,37,10
+Adana,Turkey,37,35
+Ankara,Turkey,40,33
+Istanbul,Turkey,41,29
+Izmir,Turkey,38,27
+Belfast,Northern Ireland,54,-6
+Birmingham,England,52,-2
+Cardiff,Wales,51,-3
+Edinburgh,Scotland,56,-3
+Glasgow,Scotland,56,-4
+London,England,51,0
+Montevideo,Uruguay,-35,-56
+Caracas,Venezuela,10,-67
+Maracaibo,Venezuela,10,-71
+Da Nang,Vietnam,17,108
+Hanoi,Vietnam,21,106
+Ho Chi Minh City (Saigon),Vietnam,11,107
+Belgrade,Yugoslavia,45,20
+Acapulco,Mexico,17,-100
+Beijing,China,40,116
+San Jose,Costa Rica,10,-85
+Hamilton,Bermuda,32,-65
+Vancouver,Canada,49,-124
+Kingston,Jamaica,18,-77

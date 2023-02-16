@@ -1,0 +1,60 @@
+City,Country,AvgHigh,AvgLow
+Algiers,Algeria,90,45
+Amsterdam,Netherlands,70,33
+Athens,Greece,89,41
+Auckland,New Zealand,75,44
+Bangkok,Thailand,95,69
+Beijing,China,86,17
+Belgrade,Yugoslavia,80,29
+Berlin,Germany,75,25
+Bogota,Colombia,69,43
+Bombay,India,90,68
+Bucharest,Romania,83,24
+Budapest,Hungary,80,25
+Buenos Aires,Argentina,87,48
+Cairo,Egypt,95,48
+Calcutta,India,97,56
+Cape Town,South Africa,70,48
+Caracas,Venezuela,83,57
+Copenhagen,Denmark,73,30
+Dublin,Ireland,68,36
+Geneva,Switzerland,76,28
+Glasgow,Scotland,65,35
+Hamilton,Bermuda,85,59
+Havana,Cuba,87,66
+Helsinki,Finland,71,18
+Hong Kong,China,89,51
+Istanbul,Turkey,79,38
+Jerusalem,Israel,87,42
+Kingston,Jamaica,89,67
+Lagos,Nigeria,90,75
+Lima,Peru,81,60
+Lisbon,Portugal,78,46
+London,England,73,36
+Madrid,Spain,89,36
+Manila,Philippines,89,75
+Mexico City,Mexico,77,42
+Montreal,Canada,77,8
+Moscow,Russia,76,9
+Nairobi,Kenya,78,51
+Nassau,Bahamas,88,65
+Oslo,Norway,73,19
+Paris,France,76,32
+Prague,Czech Republic,74,27
+Quebec,Canada,76,5
+Reykjavik,Iceland,57,25
+Rio de Janeiro,Brazil,85,64
+Rome,Italy,87,39
+San Juan,Puerto Rico,86,70
+San Salvador,El Salvador,87,37
+Sao Paulo,Brazil,81,53
+Seoul,"Korea, South",84,17
+Shanghai,China,89,33
+Singapore,Singapore,89,73
+Stockholm,Sweden,70,23
+Sydney,Australia,79,44
+Taipei,Taiwan,91,52
+Tokyo,Japan,85,33
+Toronto,Canada,80,17
+Vienna,Austria,76,28
+Zurich,Switzerland,78,25

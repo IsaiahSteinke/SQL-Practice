@@ -1,0 +1,133 @@
+City,State,Latitude,Longitude
+Sitka,AK,57,-135
+Anchorage,AK,61,-150
+Nome,AK,64,-165
+Juneau,AK,58,-134
+Mobile,AL,31,-88
+Montgomery,AL,32,-86
+Birmingham,AL,33,-87
+Hot Springs,AR,34,-93
+Little Rock,AR,35,-92
+Flagstaff,AZ,35,-112
+Phoenix,AZ,33,-113
+Los Angeles,CA,34,-118
+Long Beach,CA,34,-118
+San Francisco,CA,38,-122
+San Diego,CA,33,-117
+San Jose,CA,37,-122
+Oakland,CA,38,-122
+Fresno,CA,37,-120
+El Centro,CA,32,-115
+Sacramento,CA,38,-121
+New Haven,CN,41,-73
+Denver,CO,40,-105
+Grand Junction,CO,40,-108
+Hartford,CT,42,-73
+Washington,DC,39,-77
+Dover,DE,39,-76
+Tampa,FL,28,-82
+Jacksonville,FL,30,-82
+Tallahassee,FL,31,-84
+Miami,FL,26,-80
+Key West,FL,24,-82
+Savannah,GA,33,-82
+Atlanta,GA,34,-84
+Honolulu,HI,21,-158
+Des Moines,IA,41,-93
+Dubuque,IA,42,-91
+Boise,ID,43,-116
+Idaho Falls,ID,43,-112
+Lewiston,ID,46,-117
+Springfield,IL,40,-89
+Chicago,IL,42,-87
+Indianapolis,IN,40,-86
+Wichita,KS,38,-97
+Topeka,KS,39,-96
+Frankfort,KY,38,-85
+Louisville,KY,38,-86
+Baton Rouge,LA,31,-91
+Shreveport,LA,32,-94
+New Orleans,LA,30,-91
+Boston,MA,42,-72
+Springfield,MA,43,-72
+Annapolis,MD,39,-77
+Baltimore,MD,39,-76
+Augusta,ME,44,-70
+Portland,ME,44,-70
+Bangor,ME,45,-69
+Eastport,ME,45,-67
+Grand Rapids,MI,43,-86
+Detroit,MI,42,-83
+Lansing,MI,43,-85
+St. Paul,MN,45,-93
+Minneapolis,MN,45,-93
+Duluth,MN,47,-93
+St. Louis,MO,38,-90
+Springfield,MO,37,-93
+Jefferson City,MO,39,-92
+Kansas City,MO,40,-94
+Jackson,MS,32,-90
+Helena,MT,46,-112
+Raleigh,NC,36,-78
+Charlotte,NC,35,-81
+Wilmington,NC,34,-78
+Bismarck,ND,47,-101
+Fargo,ND,47,-97
+Omaha,NE,41,-96
+Lincoln,NE,41,-97
+Concord,NH,43,-72
+Manchester,NH,43,-71
+Trenton,NJ,40,-75
+Newark,NJ,41,-74
+Santa Fe,NM,36,-106
+Albuquerque,NM,36,-106
+Carlsbad,NM,32,-104
+Reno,NV,39,-120
+Carson City,NV,39,-120
+Las Vegas,NV,36,-115
+Syracuse,NY,43,-77
+Albany,NY,43,-74
+New York,NY,41,-74
+Buffalo,NY,43,-79
+Columbus,OH,40,-83
+Cleveland,OH,41,-81
+Cincinnati,OH,40,-84
+Toledo,OH,41,-83
+Oklahoma City,OK,35,-97
+Tulsa,OK,37,-96
+Klamath Falls,OR,42,-122
+Salem,OR,45,-123
+Portland,OR,45,-123
+Eugene,OR,44,-124
+Baker,OR,45,-118
+Harrisburg,PA,40,-77
+Pittsburgh,PA,40,-80
+Philadelphia,PA,40,-75
+Providence,RI,42,-71
+Columbia,SC,34,-81
+Charleston,SC,33,-80
+Sioux Falls,SD,43,-97
+Pierre,SD,44,-100
+Knoxville,TN,36,-84
+Nashville,TN,36,-87
+Memphis,TN,36,-90
+Dallas,TX,33,-97
+Amarillo,TX,35,-102
+Houston,TX,30,-95
+San Antonio,TX,29,-98
+Fort Worth,TX,33,-97
+El Paso,TX,32,-106
+Austin,TX,30,-98
+Salt Lake City,UT,41,-112
+Richfield,UT,39,-113
+Roanoke,VA,37,-80
+Richmond,VA,37,-77
+Virginia Beach,VA,37,-76
+Montpelier,VT,44,-72
+Spokane,WA,48,-117
+Seattle,WA,47,-122
+Olympia,WA,47,-123
+Milwaukee,WI,43,-88
+Madison,WI,43,-89
+Charleston,WV,38,-81
+Cheyenne,WY,42,-105
