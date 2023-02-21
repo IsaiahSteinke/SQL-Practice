@@ -1,14 +1,14 @@
 # SQL Practice
 # Author: Isaiah Steinke
 # Last Modified: February 20, 2023
-# Written, Tested, and Debugged in Julia v.1.8.1
+# Written, Tested, and Debugged in Julia v1.8.1
 
 # We'll use the DuckDB package to query a database created in memory.
 # The various datasets will be read in as dataframes and added as views to
 # this database.
 
 # Import libraries/packages
-using CSV, DataFrames, DuckDB
+using CSV, DataFrames, DuckDB # resp. v0.10.9, v1.5.0, and v0.7.0
 
 # Set working directory
 workdir = "D:/GitHub/SQL-Practice"
@@ -98,7 +98,7 @@ print(result)
 
 # ==============================================================================
 
-# Query 3: Find cities present in "worldcitycoords" but not "worldtemps."
+# Query 3: Find cities present in "worldcitycoords" but not in "worldtemps."
 
 q3 = "SELECT City, Country
       FROM wcc
@@ -114,4 +114,4 @@ print(q3_out)
 # that there are 212 - 59 = 153 records in the result if all of the cities in
 # "worldtemps" are in "worldcitycoords." However, we know that there are two
 # cities in "worldtemps" that are not in "worldcitycoords" from Query 2. Hence,
-# the result of Query 3 should have 155 records (which is does).
+# the result of Query 3 should have 155 records (which it does).
